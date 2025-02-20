@@ -12,21 +12,14 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/nameno-rakotondrazaka-14471a231/?originalSubdomain=mg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://web.facebook.com/nameno.rkt.9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
-  </a>
-</div>
-
-
-###
-
 <p align="left">Je viens de Madagascar<br><br>- 🔭 Je suis Developpeur FullStack<br>- 📚 J'apprends actuellement Flutter<br>- ⚡ Pendant mon temps libre, je cree des projets</p>
 
-###
+<h3 align="left">Connectez-vous avec moi :</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nameno-rakotondrazaka-14471a231/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johan emadisson" height="30" width="40" /></a>
+<a href="https://web.facebook.com/nameno.rkt.9" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ema disson" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">🛠 Langage et outils</h3>
 
