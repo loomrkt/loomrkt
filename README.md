@@ -86,9 +86,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loomrkt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=loomrkt&locale=fr&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="150" alt="streak graph"  />
 </div>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=loomrkt&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="150" alt="top"  />
-</div>
+
 <br/>
 <br/>
 <div align="center">
